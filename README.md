@@ -37,8 +37,9 @@ Hello! 👋 I'm **Sathish Sagar**, a passionate **Data Analyst Enthusiast** and 
 ### 📊 **Data Dashboards**:
 - **Sales Performance Dashboard**: Built using **Power BI**, showcasing KPIs, trends, and insights.
   ![Sales Dashboard]  (https://github.com/Sathishsagar/Fnp-DataAnalyst/blob/main/dashboard.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/e8c5aaf3-a964-407c-a74d-1a459a811827)
 
-- **Expense Tracker**: An interactive **Excel dashboard** to monitor spending and savings.
+- **HR_ANALYTICS**: An interactive **Excel dashboard** to monitor the HR Analytics  provides an insightful summary of employee attrition across the organization, enabling leadership to identify patterns and prioritize retention strategies effectively. Below is a detailed analysis of the key metrics presented:.
   
 ![image](https://github.com/user-attachments/assets/41c71b86-154f-4283-a3d0-e883129af931)
 
