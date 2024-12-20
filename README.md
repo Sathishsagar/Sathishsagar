@@ -39,7 +39,8 @@ Hello! 👋 I'm **Sathish Sagar**, a passionate **Data Analyst Enthusiast** and 
   ![Sales Dashboard]  (https://github.com/Sathishsagar/Fnp-DataAnalyst/blob/main/dashboard.jpg?raw=true)
 
 - **Expense Tracker**: An interactive **Excel dashboard** to monitor spending and savings.
-  ![Expense Tracker](https://via.placeholder.com/600x300?text=Expense+Tracker)
+  
+![image](https://github.com/user-attachments/assets/41c71b86-154f-4283-a3d0-e883129af931)
 
 ---
 
