@@ -61,7 +61,8 @@ Hello! 👋 I'm **Sathish Sagar**, a passionate **Data Analyst Enthusiast** and 
 
 ## 🤝 Let's Connect:
 - 🌐 [Portfolio Website](https://sathishsagar.netlify.app/)
-- 💼 [LinkedIn] (https://www.linkedin.com/in/sathishsagar-chanda-963810229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sathishsagar-chanda-963810229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 - 📧 Email: chandasathishsagar@gmail.com
 
 ---
