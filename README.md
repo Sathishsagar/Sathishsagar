@@ -36,7 +36,7 @@ Hello! 👋 I'm **Sathish Sagar**, a passionate **Data Analyst Enthusiast** and 
 
 ### 📊 **Data Dashboards**:
 - **Sales Performance Dashboard**: Built using **Power BI**, showcasing KPIs, trends, and insights.
-  ![Sales Dashboard](https://via.placeholder.com/600x300?text=Sales+Dashboard)
+  ![Sales Dashboard]  (https://github.com/Sathishsagar/Fnp-DataAnalyst/blob/main/dashboard.jpg?raw=true)
 
 - **Expense Tracker**: An interactive **Excel dashboard** to monitor spending and savings.
   ![Expense Tracker](https://via.placeholder.com/600x300?text=Expense+Tracker)
