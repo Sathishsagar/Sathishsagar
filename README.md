@@ -35,6 +35,10 @@ Hello! 👋 I'm **Sathish Sagar**, a passionate **Data Analyst Enthusiast** and 
 ## 📂 Featured Projects:
 
 ### 📊 **Data Dashboards**:
+  **HR_ANALYTICS USING AI**:This AI-powered HR Analytics Dashboard provides a comprehensive overview of employee attrition and related metrics, enabling data-driven decision-making. 
+  ![image](https://github.com/user-attachments/assets/89a551ec-d726-43a7-860c-e4ce9482d950)
+
+  
 - **Sales Performance Dashboard**: Built using **Power BI**, showcasing KPIs, trends, and insights.
   ![Sales Dashboard]  (https://github.com/Sathishsagar/Fnp-DataAnalyst/blob/main/dashboard.jpg?raw=true)
 ![image](https://github.com/user-attachments/assets/e8c5aaf3-a964-407c-a74d-1a459a811827)
